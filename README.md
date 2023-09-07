@@ -73,6 +73,15 @@ module.exports = {
 }
 ```
 
+### Use
+```bash
+methods: {
+  handleClickButton(){
+    this.$hotjar.event('click-button');
+  }
+}
+```
+
 ## Options
 
 You can provide additional options to customize the Hotjar:
