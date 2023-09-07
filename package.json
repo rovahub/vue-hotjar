@@ -1,6 +1,6 @@
 {
   "name": "@rovahub/vue-hotjar",
-  "version": "1.0.1-dev",
+  "version": "1.0.0",
   "description": "This Vue2 plugin injects a Hotjar into all of your vue instances",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,8 @@
   "files": [
     "README.md",
     "LICENSE",
-    "images/*"
+    "images/*",
+    "dist/*"
   ],
   "homepage": "https://github.com/rovahub/vue-hotjar#readme",
   "bugs": {
