@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/rovahub/vue-hotjar/master/images/hotjar.svg" alt="Hotjar logo">
+  <img height="200" src="https://raw.githubusercontent.com/rovahub/vue-hotjar/master/images/hotjar.svg" alt="Hotjar logo">
 </p>
 
 [![](https://img.shields.io/npm/v/%40rovahub%2Fvue-hotjar/latest.svg?style=flat-square)](https://npmjs.com/package/%40rovahub%2Fvue-hotjar)
