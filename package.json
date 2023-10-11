@@ -1,6 +1,6 @@
 {
   "name": "@rovahub/vue-hotjar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Vue2 plugin injects a Hotjar into all of your vue instances",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,11 +34,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@hotjar/browser": "1.0.9",
-    "vue": "2.7.14"
+    "@hotjar/browser": "^1.0.9",
+    "vue": "^2.7.14"
   },
   "devDependencies": {
-    "@types/node": "20.5.9",
-    "typescript": "5.2.2"
+    "@types/node": "^20.5.9",
+    "typescript": "^5.2.2"
   }
 }
